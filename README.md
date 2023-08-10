@@ -12,10 +12,10 @@ The dataset used for this analysis was sourced from another analyst profile [Ale
 ## Data Cleaning
 Data Cleaning was done in Excel. 
 1. Checked for data types i.e: for for date and time 
-2. Filter out irrelavant data values by splitting values with delimiter:
--  a. Remove row text other than word 'options'
--  b. Delete irrelevant columns
-3. As in each row current salary is provided with ranges so:
+2. Filter out irrelavant data values by splitting values with delimiter:  
+   a. Remove row text other than word 'options'  
+   b. Delete irrelevant columns  
+4. As in each row current salary is provided with ranges so:
 -  a. Split values with delimiter
 -  b. Find average of two ranges with custom column
 -  c. Remove unwanted colunms
