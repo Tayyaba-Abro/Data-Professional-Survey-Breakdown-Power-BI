@@ -1,5 +1,7 @@
 # Data Professional Survey Breakdown
-<img width="700" alt="power bi dashboard" src="https://github.com/Tayyaba-Abro/Power-BI-Project/assets/47588244/d0ec431f-5785-48aa-96f0-757329a23474">
+<p align="center">
+  <img src="https://github.com/Tayyaba-Abro/Power-BI-Project/assets/47588244/d0ec431f-5785-48aa-96f0-757329a23474" alt="Image">
+</p>
 
 ## Introduction: 
 This project presents an analysis of a survey conducted among data professionals to understand various aspects of their careers, including career switches, salaries, industries, programming languages, and job satisfaction. The goal is to extract insights and trends from the survey data to gain a better understanding of the data professional landscape.
@@ -27,4 +29,4 @@ To understand the data professional landscape, I created a comprehensive dashboa
 4. A column chart that illustrates the distribution of votes for programming languages among different job titles
 5. A donut chart to categorize the difficulties faced by aspiring data professionals
 6. Gauges to measure happiness levels in current positions. One gauge evaluates work/life balance, while the other assesses satisfaction with salary
-7. 
+ 
