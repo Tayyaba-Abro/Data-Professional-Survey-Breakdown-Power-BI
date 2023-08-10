@@ -7,11 +7,11 @@
 This Power BI project presents an analysis of a survey conducted among data professionals to understand various aspects of their careers, including career switches, salaries, industries, programming languages, and job satisfaction. The goal is to extract insights and trends from the survey data to gain a better understanding of the data professional landscape.
 
 ## Data Source 
-The dataset used for this analysis was sourced from another analyst profile [Alex the Analyst](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx). It contains responses from data professionals in various fields, detailing their career journeys and preferences.
+The dataset used for this analysis was sourced from the data provided by [Alex the Analyst](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx). It contains responses from data professionals in various fields, detailing their career journeys and preferences.
 
 ## Data Cleaning
 Data Cleaning was done in Excel. 
-1. Checked for data types i.e: for for date and time 
+1. Checked for data types i.e: for date and time 
 2. Filter out irrelavant data values by splitting values with delimiter:
 
    a. Remove row text other than word 'options'
